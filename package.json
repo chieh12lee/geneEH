@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git@github.com:trevorpao/geneEH.git"
   },
+  "main":"app/scripts/jquery.gene.es6.js",
   "engines": {
     "node": ">=4"
   },
