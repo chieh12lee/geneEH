@@ -16,10 +16,10 @@ Behavior can be controlled by genes.
 
 ### Installation
 
-- Bower
+- npm
 
-```bash
-    bower install gene-event-handler
+```
+    npm install https://github.com/chieh301/geneEH.git --save
 ```
 
 ### Basic usage
